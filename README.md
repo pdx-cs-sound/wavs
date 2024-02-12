@@ -9,6 +9,9 @@ is Creative Commons CC-0 unless otherwise indicated.
   Tovatronica. License is
   CC-BY. <https://steviasphere.bandcamp.com/album/collectathon>
 
+* `echomorph.wav`: `voice-note.wav` as processed with an
+  "echomorph" effect.
+
 * `fifth.wav`: Synthesizer playing a fifth, by Bart Massey.
 
 * `gc.wav`: Short acoustic guitar sample, by Bart Massey.
